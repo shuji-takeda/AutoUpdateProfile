@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
   schedule:
     # update every 1 hour
-    - cron: "0 */12 * * *"
+    - cron: "0 */1 * * *"
 
 jobs:
   Update:
@@ -30,7 +30,7 @@ jobs:
               git config --local user.name "GitHub Actions"
               git add .
               git commit -m "auto update"
-              git push origin main
+              git push origin master
               exit 0
           fi
           echo "no changes"
