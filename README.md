@@ -1,6 +1,6 @@
-# 🐬 Welcome to my playground 🐬
-	Thanks visit here.
-	This trial is auto update your ReadMe every 1hour.
+# 🐬 Welcome to my Go playground 🐬
+	🌈Thanks visit here🌈
+	This golang trial is auto update your ReadMe every 1hour.
 	1st.The Blog which I posted Blog in Qiita get by API.
 	2nd.Update your ReadMe.md by github workFlow.
 
