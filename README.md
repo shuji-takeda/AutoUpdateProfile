@@ -6,6 +6,12 @@
 
 	## Recent posts - Blog 📜 
 	
+🌵 [Spring boot Thymeleafを使ったアレコレ。](https://qiita.com/takeshu17/items/cbb7b51fef0309983a71)
+
+
+🌵 [Spring boot H2 の基礎のアレコレ。](https://qiita.com/takeshu17/items/def91946c9ca3ce81d94)
+
+
 🌵 [Next + TypeScript + MicroCMS でブログ作成。（環境構築〜一覧取得まで）](https://qiita.com/takeshu17/items/5814d595a7b9ead2d6b9)
 
 
